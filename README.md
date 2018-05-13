@@ -7,4 +7,4 @@ Need to build
 -Choosing one random, based on proportionate amount of coins, group scheme
 -New mining block algorithm
 -Revise consensus algorithm
--Revise everything else
+-Revise everything elses

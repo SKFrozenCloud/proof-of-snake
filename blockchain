@@ -1,0 +1,45 @@
+import os
+import sys
+import random
+
+class keepUpdated
+    self.blockdiff = 0
+    self.nodes = 0
+
+class Blockchain
+    self.bch_path = "default.bch"
+
+    def __init__(self):
+        # Create the blockchain and keep it updated
+
+    def validate_chain(self):
+
+    def validate_block(self):
+
+    def replace_chain(self):
+
+    def add_block(self):
+
+class Nodes
+    self.safenodes = tuple("127.0.0.1")
+
+    def __init__(self):
+        # Find nodes and keep the list of nodes update
+
+    def add_node(self):
+
+    def remove_node(self):
+
+    def com_node(self):
+
+class Mining
+    self.blockdiff = 0
+
+    def __init__(self):
+        # Keep a list of mining ID and create random mining schemes
+
+    def create_scheme(self):
+
+    def stake_scheme(self):
+
+    def mine_block(self):
